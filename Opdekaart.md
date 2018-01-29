@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Kaart
-permalink: /about/
+permalink: /mapsvideosmock/
 ---
 Hier kunt u filmpjes vinden op de kaart
 
