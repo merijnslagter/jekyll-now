@@ -1,6 +1,10 @@
 ---
 layout: page
-title: Map
+title: Kaart
 permalink: /about/
 ---
 Hier kunt u filmpjes vinden op de kaart
+
+
+https://merijnslagter.github.io/mapsvideosmock/
+
