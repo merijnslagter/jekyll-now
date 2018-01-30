@@ -1,9 +1,6 @@
 ---
 layout: post
-title: Bedrijfsvoering familie Bokma, Gouden boaiem
-tags: persoonlijk
-youtubeId: RrovcYapMfY
-
+title: Test GIS cloud map
 ---   
     <head>
       <title>GIScloud test</title>
