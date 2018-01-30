@@ -1,1 +1,15 @@
-<iframe src="http://editor.giscloud.com/rest/1/maps/818532/render.iframe?bound=399918.5319880396,6800143.784362406,848451.013965454,7067979.131473662&toolbar=true&popups=true&layerlist=true" width="600" height="400" frameborder="0"></iframe>
+---
+layout: post
+title: Bedrijfsvoering familie Bokma, Gouden boaiem
+tags: persoonlijk
+youtubeId: RrovcYapMfY
+
+---   
+    <head>
+      <title>GIScloud test</title>
+   </head>
+
+   <body>
+     <iframe src="http://editor.giscloud.com/rest/1/maps/818532/render.iframe?bound=399918.5319880396,6800143.784362406,848451.013965454,7067979.131473662&toolbar=true&popups=true&layerlist=true" width="600" height="400" frameborder="0"></iframe> 
+   </body>
+  
